@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25+Charted&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --laranja: #e37c0e;
+    --preto:#000000;
+    --branco:#ffffff;
+}
+
+body {
+    background-color: var(--preto);
+    color: var(--branco);
+    font-family: var(--fonte-texto);
+}
+
+.titulo-principal{
+    font-family: var(--fonte-titulo);
+}
